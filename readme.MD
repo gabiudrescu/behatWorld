@@ -12,6 +12,10 @@ Extensions:
 	 - PerformanceExtension - Accelerates Behat using features available only for newer PHP versions.
 	 - SymfonyExtension - [WIP] Integrates Behat with Symfony (both 2 and 3).
  - [MinkExtension](https://github.com/Behat/MinkExtension) - an abstraction layer that allows Behat to communicate with Selenium and other headless browsers
+ - [Behat-Screenshot](https://github.com/elvetemedve/behat-screenshot) - Helps you debug Behat scenarios by taking screenshot of the failing steps / scenarios
+ - [Behat-BrowserInitialiser](https://github.com/tkotosz/behat-browser-initialiser) - Helps configure the browser for behat scenarios
+ - [Behat-StepTimeLogger](https://github.com/tkotosz/behat-step-time-logger) - Helps you find slow behat scenario steps by logging the step times
+ - [Behat-Magento2Init](https://github.com/tkotosz/behat-magento2-init) - Provides access to the Magento2 object manager and allows you to change Magento2 config settings temporarly when Behat is running
 
 ----------
 
