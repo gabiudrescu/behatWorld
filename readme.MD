@@ -12,7 +12,7 @@ Extensions:
 	 - PerformanceExtension - Accelerates Behat using features available only for newer PHP versions.
 	 - SymfonyExtension - [WIP] Integrates Behat with Symfony (both 2 and 3).
  - [MinkExtension](https://github.com/Behat/MinkExtension) - an abstraction layer that allows Behat to communicate with Selenium and other headless browsers
- - [VersionBasedTestSkipper] - Skip Scenarios or Features based on PHP version via annotations
+ - [VersionBasedTestSkipper](https://github.com/ciaranmcnulty/version-based-test-skipper) - Skip Scenarios or Features based on PHP version via annotations
 
 ----------
 
