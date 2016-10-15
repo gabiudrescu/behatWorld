@@ -6,12 +6,13 @@ This started as an idea of grouping on one page all tools and extensions availab
 Extensions:
 -----------
 
- - [Behat Step Through - Helps you debug Behat scenarios by stopping
-   execution in between steps](https://github.com/ciaranmcnulty/behat-stepthroughextension)
+ - [Behat Step Through](https://github.com/ciaranmcnulty/behat-stepthroughextension) - Helps you debug Behat scenarios by stopping
+   execution in between steps
  - [Friends Of Behat](https://github.com/FriendsOfBehat):
 	 - PerformanceExtension - Accelerates Behat using features available only for newer PHP versions.
 	 - SymfonyExtension - [WIP] Integrates Behat with Symfony (both 2 and 3).
  - [MinkExtension](https://github.com/Behat/MinkExtension) - an abstraction layer that allows Behat to communicate with Selenium and other headless browsers
+ - [VersionBasedTestSkipper] - Skip Scenarios or Features based on PHP version via annotations
 
 ----------
 
