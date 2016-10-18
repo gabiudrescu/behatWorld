@@ -18,8 +18,11 @@ Extensions:
  - [Behat-StepTimeLogger](https://github.com/tkotosz/behat-step-time-logger) - Helps you find slow behat scenario steps by logging the step times
  - [Behat-Magento2Init](https://github.com/tkotosz/behat-magento2-init) - Provides access to the Magento2 object manager and allows you to change Magento2 config settings temporarly when Behat is running
 
-----------
+Articles:
+-----------
+ - [Behat TableNodes – the missing manual](http://blog.whiteoctober.co.uk/2012/09/12/behat-tablenodes-the-missing-manual/) - A blog detailing some of the TableNode options within Behat.
 
+----------
 
 Why?
 ----
