@@ -40,3 +40,6 @@ Last weekend, I attended BgPHP Conference where [the keynote of Cal Evans](https
  - rockstars
 
 I have [openly admitted](https://twitter.com/GabiUdrescu/status/785124150914453504) then of being a groupie of Sylius. Now I thought of applying for the same statue for Behat. Because... why not?
+
+[![Analytics](https://ga-beacon.appspot.com/UA-1139149-18/homepage)](https://github.com/gabiudrescu/behatWorld)
+
