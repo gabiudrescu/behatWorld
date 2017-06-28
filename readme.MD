@@ -27,6 +27,10 @@ Articles:
 	 - [Part 2 - PHPSpec](https://bitbag.shop/blog/post/working-with-bdd-and-resources-in-sylius-part-2-phpspec)
 	 - [Part 3 - ResourceBundle](https://bitbag.shop/blog/post/working-with-bdd-and-resources-in-sylius-part-3-resourcebundle)
 
+	 The repository is available here: https://github.com/bitbag-commerce/sylius-bdd. In my opinion, the simplicity of this tutorial makes it good for beginners that want to get a grasp of how to approach a task / project / challenge using this metodology. 
+
+	 Though, to my taste, I would also like to find something that brings more to the table. More like "building a library" or "a system that handles a book borrowing process". Looking forward for more
+
 ----------
 
 Why?
