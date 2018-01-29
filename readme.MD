@@ -17,6 +17,9 @@ Extensions:
  - [Behat-BrowserInitialiser](https://github.com/tkotosz/behat-browser-initialiser) - Helps configure the browser for behat scenarios
  - [Behat-StepTimeLogger](https://github.com/tkotosz/behat-step-time-logger) - Helps you find slow behat scenario steps by logging the step times
  - [Behat-Magento2Init](https://github.com/tkotosz/behat-magento2-init) - Provides access to the Magento2 object manager and allows you to change Magento2 config settings temporarly when Behat is running
+ - [Behatch Contexts](https://github.com/Behatch/contexts) - A series of predefined contexts that help you better handle browser, screenshots, xml and tables
+ - [Behatch Notifiers](https://github.com/Behatch/notifiers) - A behat plugin that can be configured to send notifications over Slack. For example: when something failed in CI. 
+ 
 
 Articles:
 -----------
@@ -30,7 +33,9 @@ Articles:
 	 The repository is available here: https://github.com/bitbag-commerce/sylius-bdd. In my opinion, the simplicity of this tutorial makes it good for beginners that want to get a grasp of how to approach a task / project / challenge using this metodology. 
 
 	 Though, to my taste, I would also like to find something that brings more to the table. More like "building a library" or "a system that handles a book borrowing process". Looking forward for more
-
+ 
+  - [Behat & Symfony 4](https://medium.com/@takeit/how-to-configure-behat-with-symfony-4-2d6ba6c4608) - Some practical examples of how to use Behat with Symfony4. 
+  
 ----------
 
 Why?
