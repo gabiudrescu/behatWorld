@@ -25,10 +25,10 @@ Articles:
 -----------
  - [Behat TableNodes – the missing manual](http://blog.whiteoctober.co.uk/2012/09/12/behat-tablenodes-the-missing-manual/) - A blog detailing some of the TableNode options within Behat.
  - A practical approach on BDD with Sylius (components), Behat and PHPSpec: 
-	 - [Part 0 - Why and how](https://bitbag.shop/blog/post/working-with-bdd-and-resources-in-sylius-part-0-introduction)
-	 - [Part 1 - Behat](https://bitbag.shop/blog/post/working-with-bdd-and-resources-in-sylius-part-1-behat)
-	 - [Part 2 - PHPSpec](https://bitbag.shop/blog/post/working-with-bdd-and-resources-in-sylius-part-2-phpspec)
-	 - [Part 3 - ResourceBundle](https://bitbag.shop/blog/post/working-with-bdd-and-resources-in-sylius-part-3-resourcebundle)
+	 - [Part 0 - Why and how](https://bitbag.shop/blog/working-with-bdd-and-resources-in-sylius-part-0-introduction)
+	 - [Part 1 - Behat](https://bitbag.shop/blog/working-with-bdd-and-resources-in-sylius-part-1-behat)
+	 - [Part 2 - PHPSpec](https://bitbag.shop/blog/working-with-bdd-and-resources-in-sylius-part-2-phpspec)
+	 - [Part 3 - ResourceBundle](https://bitbag.shop/blog/working-with-bdd-and-resources-in-sylius-part-3-resourcebundle)
 
 	 The repository is available here: https://github.com/bitbag-commerce/sylius-bdd. In my opinion, the simplicity of this tutorial makes it good for beginners that want to get a grasp of how to approach a task / project / challenge using this metodology. 
 
